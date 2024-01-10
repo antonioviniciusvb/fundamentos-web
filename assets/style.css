@@ -1,0 +1,28 @@
+.titulo, .card-titulo{
+    color: blue;
+    text-align: center;
+}
+.menu, card-descricao{
+    color: brown;
+}
+
+p{
+    color: cadetblue;
+}
+
+.card-produtos{
+    text-align: center;
+    border: 5px solid red;
+    margin: 2px;
+    width: 200px;
+}
+
+.card-preco{
+    color: green;
+    font-weight: bold;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+}
